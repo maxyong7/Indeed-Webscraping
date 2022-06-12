@@ -1,0 +1,5 @@
+src/secrets.ts
+src/cookies_indeed.json
+src/results.json
+dst
+node_modules
